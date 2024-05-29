@@ -1,4 +1,0 @@
-amazon :: user@user_email.com :: 1234
-netflix :: user@user_email.com :: 1G0cuV!3+LS0!Lr*
-best buy :: user@user_email.com :: w9g7Rr$k5IDCB%
-facebook.com :: user@user_email.com :: d72zOGXALJ!(k

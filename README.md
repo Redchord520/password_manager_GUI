@@ -47,13 +47,7 @@ data.json: The JSON file where passwords are stored.
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Acknowledgements
-Inspired by various password management applications.
+A project from Angela Yu's Python Bootcamp.
 Special thanks to the contributors of the tkinter library.
-Contact
-For any questions or suggestions, please contact [your-email@example.com].
 
-By following this guide, you should be able to set up, use, and contribute to the Password Manager application effectively.
